@@ -1,0 +1,14 @@
+.grid-container{
+	display: grid;
+  	grid-template-columns: auto auto  ;
+}
+
+
+#alati li:hover {
+	background-color: #4747bf;;
+}
+
+
+#toolbox li:hover {
+	background-color: rgb(255, 102, 102);
+}
